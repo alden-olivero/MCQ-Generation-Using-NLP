@@ -42,3 +42,11 @@ To use the automated MCQ generation system, follow these steps:
 - Generate Questions: Create questions using the extracted keywords and summarized text.
 - Generate Distractors: Use Sense2Vec, WordNet, or ConceptNet to create plausible distractors.
 - Gradio Interface: Launch the Gradio-based user interface to interact with the system.
+
+
+## Contributing
+Contributions to this project are welcome. If you'd like to contribute, please follow these guidelines:
+
+- Fork the repository and create a new branch for your changes.
+- Ensure your code adheres to the existing style and conventions.
+- Submit a pull request with a clear description of your changes.
