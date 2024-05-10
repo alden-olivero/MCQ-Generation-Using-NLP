@@ -36,9 +36,9 @@ nltk.download('wordnet')
 ##Usage
 To use the automated MCQ generation system, follow these steps:
 
-- **Input Text: Provide a paragraph or larger text from which you want to generate MCQs.
-- **Summarize Text: Use the T5 model to summarize the input text.
-- **Extract Keywords: Identify significant keywords from the summarized text.
-- **Generate Questions: Create questions using the extracted keywords and summarized text.
-- **Generate Distractors: Use Sense2Vec, WordNet, or ConceptNet to create plausible distractors.
-- **Gradio Interface: Launch the Gradio-based user interface to interact with the system.
+- Input Text: Provide a paragraph or larger text from which you want to generate MCQs.
+- Summarize Text: Use the T5 model to summarize the input text.
+- Extract Keywords: Identify significant keywords from the summarized text.
+- Generate Questions: Create questions using the extracted keywords and summarized text.
+- Generate Distractors: Use Sense2Vec, WordNet, or ConceptNet to create plausible distractors.
+- Gradio Interface: Launch the Gradio-based user interface to interact with the system.
