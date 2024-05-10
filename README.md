@@ -33,7 +33,7 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 ```
-##Usage
+## Usage
 To use the automated MCQ generation system, follow these steps:
 
 - Input Text: Provide a paragraph or larger text from which you want to generate MCQs.
